@@ -1,0 +1,107 @@
+subject 		Activity Numner ( 1 though 6)
+activity_label		Activity Name (WALKING
+, WALKING_UPSTAIRS
+, WALKING_DOWNSTAIRS
+, SITTING
+, STANDING
+, LAYING
+)
+
+tBodyAcc.mean...X	Mean of body accelaration in X-axis direction for time domain.
+tBodyAcc.mean...Y	Mean of body accelaration in Y-axis direction for time domain.
+tBodyAcc.mean...Z	Mean of body accelaration in Z-axis direction for time domain.
+tBodyAcc.std...X	Stadard deviation of body accelaration in X-axis direction for time domain.
+tBodyAcc.std...Y	Stadard deviation of body accelaration in Y-axis direction for time domain.
+tBodyAcc.std...Z	Stadard deviation of body accelaration in Z-axis direction for time domain.
+
+tGravityAcc.mean...X	Mean of gravity accelaration in X-axis direction for time domain.
+tGravityAcc.mean...Y	Mean of gravity accelaration in Y-axis direction for time domain.
+tGravityAcc.mean...Z	Mean of gravity accelaration in Z-axis direction for time domain.
+tGravityAcc.std...X	Stadard deviation of gravity accelaration in X-axis direction for time domain.
+tGravityAcc.std...Y	Stadard deviation of gravity accelaration in Y-axis direction for time domain.
+tGravityAcc.std...Z	Stadard deviation of gravity accelaration in Z-axis direction for time domain.
+
+tBodyAccJerk.mean...X	Mean of body linear accelaration in X-axis direction for time domain.
+tBodyAccJerk.mean...Y	Mean of body linear accelaration in Y-axis direction for time domain.
+tBodyAccJerk.mean...Z	Mean of body linear accelaration in Z-axis direction for time domain.
+tBodyAccJerk.std...X	Standard deviation of body linear accelaration in X-axis direction for time domain.
+tBodyAccJerk.std...Y	Standard deviation of body linear accelaration in Y-axis direction for time domain.
+tBodyAccJerk.std...Z	Standard deviation of body linear accelaration in Z-axis direction for time domain.
+
+tBodyGyro.mean...X	Mean of body 'angular velocity' in X-axis direction for time domain.
+tBodyGyro.mean...Y	Mean of body 'angular velocity' in X-axis direction for time domain.
+tBodyGyro.mean...Z	Mean of body 'angular velocity' in X-axis direction for time domain.
+tBodyGyro.std...X	Standard deviation of body 'angular velocity' in X-axis direction for time domain.
+tBodyGyro.std...Y	Standard deviation of body 'angular velocity' in Y-axis direction for time domain.
+tBodyGyro.std...Z	Standard deviation of body 'angular velocity' in Z-axis direction for time domain.
+tBodyGyroJerk.mean...X	Mean of body 'angular velocity' for jerk signals in X-axis direction for time domain.
+tBodyGyroJerk.mean...Y	Mean of body 'angular velocity' for jerk signals in Y-axis direction for time domain.
+tBodyGyroJerk.mean...Z	Mean of body 'angular velocity' for jerk signals in Z-axis direction for time domain.
+tBodyGyroJerk.std...X	Standard deviation of body 'angular velocity' for jerk signals in X-axis direction for time domain.
+tBodyGyroJerk.std...Y	Standard deviation of body 'angular velocity' for jerk signals in Y-axis direction for time domain.
+tBodyGyroJerk.std...Z	Standard deviation of body 'angular velocity' for jerk signals in Z-axis direction for time domain.
+
+tBodyAccMag.mean.. 	Mean of body accelaration magnitude signals calculated using Euclidean norm for time domain.
+tBodyAccMag.std..	Standard deviation of body accelaration magnitude signals calculated using Euclidean norm for time domain.
+tGravityAccMag.mean..	Mean of gravity accelaration magnitude signals calculated using Euclidean norm for time domain.
+tGravityAccMag.std..	Stadard deviation of accelaration magnitude signals calculated using Euclidean norm for time domain.
+tBodyAccJerkMag.mean..	Mean of body accelaration for jerk signals calculated using Euclidean norm for time domain.
+tBodyAccJerkMag.std..	Standard deviation of body accelaration for jerk signals calculated using Euclidean norm for time domain.
+tBodyGyroMag.mean..	Standard deviation of body accelaration calculated using Euclidean norm for time domain.
+tBodyGyroMag.std..	Mean of body 'angular velocity' calculated using Euclidean norm for time domain.
+tBodyGyroJerkMag.mean..	Mean of body 'angular velocity' for jerk signals calculated using Euclidean norm for time domain.
+tBodyGyroJerkMag.std..	Standard deviation of body 'angular velocity' for jerk signals calculated using Euclidean norm for time domain.
+
+fbodyAcc.mean...X	Mean of body accelaration in X-axis direction for frequency domain.
+fbodyAcc.mean...Y	Mean of body accelaration in Y-axis direction for frequency domain.
+fbodyAcc.mean...Z	Mean of body accelaration in Z-axis direction for frequency domain.
+fbodyAcc.std...X	Stadard deviation of body accelaration in X-axis direction for frequency domain.
+fbodyAcc.std...Y	Stadard deviation of body accelaration in Y-axis direction for frequency domain.
+fbodyAcc.std...Z	Stadard deviation of body accelaration in Z-axis direction for frequency domain.
+
+fgravityAcc.mean...X	Mean of gravity accelaration in X-axis direction for frequency domain.
+fgravityAcc.mean...Y	Mean of gravity accelaration in Y-axis direction for frequency domain.
+fgravityAcc.mean...Z	Mean of gravity accelaration in Z-axis direction for frequency domain.
+fgravityAcc.std...X	Stadard deviation of gravity accelaration in X-axis direction for frequency domain.
+fgravityAcc.std...Y	Stadard deviation of gravity accelaration in Y-axis direction for frequency domain.
+fgravityAcc.std...Z	Stadard deviation of gravity accelaration in Z-axis direction for frequency domain.
+
+fbodyAccJerk.mean...X	Mean of body linear accelaration in X-axis direction for frequency domain.
+fbodyAccJerk.mean...Y	Mean of body linear accelaration in Y-axis direction for frequency domain.
+fbodyAccJerk.mean...Z	Mean of body linear accelaration in Z-axis direction for frequency domain.
+fbodyAccJerk.std...X	Standard deviation of body linear accelaration in X-axis direction for frequency domain.
+fbodyAccJerk.std...Y	Standard deviation of body linear accelaration in Y-axis direction for frequency domain.
+fbodyAccJerk.std...Z	Standard deviation of body linear accelaration in Z-axis direction for frequency domain.
+
+fbodyGyro.mean...X	Mean of body 'angular velocity' in X-axis direction for frequency domain.
+fbodyGyro.mean...Y	Mean of body 'angular velocity' in X-axis direction for frequency domain.
+fbodyGyro.mean...Z	Mean of body 'angular velocity' in X-axis direction for frequency domain.
+fbodyGyro.std...X	Standard deviation of body 'angular velocity' in X-axis direction for frequency domain.
+fbodyGyro.std...Y	Standard deviation of body 'angular velocity' in Y-axis direction for frequency domain.
+fbodyGyro.std...Z	Standard deviation of body 'angular velocity' in Z-axis direction for frequency domain.
+fbodyGyroJerk.mean...X	Mean of body 'angular velocity' for jerk signals in X-axis direction for frequency domain.
+fbodyGyroJerk.mean...Y	Mean of body 'angular velocity' for jerk signals in Y-axis direction for frequency domain.
+fbodyGyroJerk.mean...Z	Mean of body 'angular velocity' for jerk signals in Z-axis direction for frequency domain.
+fbodyGyroJerk.std...X	Standard deviation of body 'angular velocity' for jerk signals in X-axis direction for frequency domain.
+fbodyGyroJerk.std...Y	Standard deviation of body 'angular velocity' for jerk signals in Y-axis direction for frequency domain.
+fbodyGyroJerk.std...Z	Standard deviation of body 'angular velocity' for jerk signals in Z-axis direction for frequency domain.
+
+fbodyAccMag.mean.. 	Mean of body accelaration magnitude signals calculated using Euclidean norm for frequency domain.
+fbodyAccMag.std..	Standard deviation of body accelaration magnitude signals calculated using Euclidean norm for frequency domain.
+fgravityAccMag.mean..	Mean of gravity accelaration magnitude signals calculated using Euclidean norm for frequency domain.
+fgravityAccMag.std..	Stadard deviation of accelaration magnitude signals calculated using Euclidean norm for frequency domain.
+fbodyAccJerkMag.mean..	Mean of body accelaration for jerk signals calculated using Euclidean norm for frequency domain.
+fbodyAccJerkMag.std..	Standard deviation of body accelaration for jerk signals calculated using Euclidean norm for frequency domain.
+fbodyGyroMag.mean..	Standard deviation of body accelaration calculated using Euclidean norm for frequency domain.
+fbodyGyroMag.std..	Mean of body 'angular velocity' calculated using Euclidean norm for frequency domain.
+fbodyGyroJerkMag.mean..	Mean of body 'angular velocity' for jerk signals calculated using Euclidean norm for frequency domain.
+fbodyGyroJerkMag.std..	Standard deviation of body 'angular velocity' for jerk signals calculated using Euclidean norm for frequency domain.
+
+
+
+angle.tBodyAccMean.gravity		angle between body accelaration vector and gravity vector for time domain.
+angle.tBodyAccJerkMean..gravityMean	angle between body acelaration mean and gravity mean for time domain.
+angle.tBodyGyroMean.gravityMean		angle between body acelaration mean and gravity mean for time domain.
+angle.tBodyGyroJerkMean.gravityMean.	angle between body linear angular velocity and gravity mean for time domain.
+angle.X.gravityMean.			angle for gravity mean in X-axis direction.angle.Y.gravityMean.			angle for gravity mean in Y-axis direction.
+angle.Z.gravityMean.			angle for gravity mean in Z-axis direction.
